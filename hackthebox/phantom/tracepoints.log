@@ -1,0 +1,3 @@
+tracepoint	tracepoint address	Probe	Probe address	Probe priority	Module	Module address
+
+sched_process_fork	0xffff961fbae0	-	0xffffc0b3a990	10	singularity	0xffffc0b42640
